@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Newsify/static/css/main.16e18a48.chunk.css",
+    "main.js": "/Newsify/static/js/main.3bf98da9.chunk.js",
+    "main.js.map": "/Newsify/static/js/main.3bf98da9.chunk.js.map",
+    "runtime~main.js": "/Newsify/static/js/runtime~main.de473a42.js",
+    "runtime~main.js.map": "/Newsify/static/js/runtime~main.de473a42.js.map",
+    "static/js/2.f58be67f.chunk.js": "/Newsify/static/js/2.f58be67f.chunk.js",
+    "static/js/2.f58be67f.chunk.js.map": "/Newsify/static/js/2.f58be67f.chunk.js.map",
+    "static/js/3.adf0ca59.chunk.js": "/Newsify/static/js/3.adf0ca59.chunk.js",
+    "static/js/3.adf0ca59.chunk.js.map": "/Newsify/static/js/3.adf0ca59.chunk.js.map",
+    "index.html": "/Newsify/index.html",
+    "precache-manifest.f43a82a6ddb040a91f2ef817d7b9e124.js": "/Newsify/precache-manifest.f43a82a6ddb040a91f2ef817d7b9e124.js",
+    "service-worker.js": "/Newsify/service-worker.js",
+    "static/css/main.16e18a48.chunk.css.map": "/Newsify/static/css/main.16e18a48.chunk.css.map",
+    "static/media/loading.gif": "/Newsify/static/media/loading.3f259006.gif"
+  }
+}
